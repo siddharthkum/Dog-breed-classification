@@ -1,0 +1,25 @@
+Dataset Information:
+The Stanford Dogs Dataset is a comprehensive collection of images specifically curated for dog breed classification tasks. It is widely used in the deep learning community for training and evaluating models on fine-grained image classification problems involving different dog breeds. The dataset includes a diverse set of images with varying backgrounds, lighting conditions, and poses, making it suitable for robust model training.
+
+Stanford Dogs Dataset:
+Dataset Homepage: http://vision.stanford.edu/aditya86/ImageNetDogs/
+Content:
+The dataset contains images of 120 breeds of dogs.
+Images are collected from various sources, ensuring a diverse and challenging set for classification.
+Annotations include breed labels for each image.
+Usage Information:
+Researchers and developers interested in dog breed classification tasks often use this dataset to benchmark and compare the performance of their models. The dataset is suitable for tasks involving fine-grained image recognition, where distinguishing between visually similar classes is essential.
+
+Citation:
+If you use the Stanford Dogs Dataset in your work, it's essential to provide the appropriate citation to acknowledge the efforts of the dataset creators:
+
+sql
+Copy code
+@inproceedings{KhoslaYaoJayadevaprakashFeiFei_FGVC2011,
+  author = {Aditya Khosla and Nityananda Jayadevaprakash and Bangpeng Yao and Li Fei-Fei},
+  title = {Novel dataset for fine-grained image categorization},
+  booktitle = {First Workshop on Fine-Grained Visual Categorization},
+  year = {2011},
+  pages = {315--322}
+}
+Please ensure you review and comply with the dataset's terms of use and citation guidelines as provided on the dataset homepage.
